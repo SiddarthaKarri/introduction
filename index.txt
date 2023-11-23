@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>INTRO</title>
+	</head>
+	<body>
+		<h1>SIDDARTHA K</h1><br>
+		<h2>Software Developer</h2>
+		<img width="40%" src="image.jpg">
+	</body>
+</html>
